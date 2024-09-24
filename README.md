@@ -7,11 +7,10 @@ The dataset was obtained from Airbnb’s public listings for New York City
 https://insideairbnb.com/get-the-data/
 
 # Key Insights
-Part 1: EDA
+## Part 1: EDA
 * Price Drivers: Pricing is influenced by property type, room type, and neighborhood, with Manhattan listings commanding higher prices.
 * Host Characteristics: Faster host response times and verified accounts are correlated with higher listing prices.
-* You can viw the notebook with all outputs here
-* https://drive.google.com/uc?export=view&id=1s-O0658SUfD0VCKz0XP1FmfyKwC7zQXH
+* You can viw the notebook with all outputs here https://drive.google.com/uc?export=view&id=1s-O0658SUfD0VCKz0XP1FmfyKwC7zQXH
 
 # How to tweak this project for your own use
 Since this is an example project, I'd encourage you to clone and rename this project for your own use.
