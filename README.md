@@ -7,7 +7,7 @@ The dataset was obtained from Airbnb’s public listings for New York City
 https://insideairbnb.com/get-the-data/
 
 # Key Insights
-* Part 1: EDA
+Part 1: EDA
 * Price Drivers: Pricing is influenced by property type, room type, and neighborhood, with Manhattan listings commanding higher prices.
 * Host Characteristics: Faster host response times and verified accounts are correlated with higher listing prices.
 
